@@ -1,20 +1,20 @@
-#Simple ES6 Webpack config
+# Simple ES6 Webpack config
 
-####Download npm dependencies 
+#### Download npm dependencies 
 ```$xslt
 npm install
 ```
-####Simply build project by Webpack
+#### Simply build project by Webpack
 ```$xslt
 npm run build
 ```
 
-####Start Webpack DevServer
+#### Start Webpack DevServer
 ```$xslt
 npm start
 ```
 
-####Intellij IDEA debug enabling
+#### Intellij IDEA debug enabling
 In order to debug sources in IntelliJ IDEA do the following:
 * Download and install Google Chrome 'JetBrains IDE Support' extension
 * Ensure that debugging port of the extension is set as in the Intellij IDEA 
@@ -23,9 +23,7 @@ In order to debug sources in IntelliJ IDEA do the following:
 * Start debug in IDE and go to http://localhost:9000/ in Chrome
 * Debugger should catch evaluation. Enjoy!
 
-
 #### Presentation WEB-resources
- 
 * ES6 features - http://es6-features.org/ 
 * Babel - https://babeljs.io/ 
 * Node.js - https://nodejs.org/
